@@ -1,0 +1,5 @@
+# 🚫 이 폴더와 파일들은 GitHub에 절대 올리지 마세요!
+node_modules/
+dist/
+.env
+.DS_Store
